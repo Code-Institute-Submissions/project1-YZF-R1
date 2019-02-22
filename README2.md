@@ -87,7 +87,7 @@ and disect. If others were working on the project with me they would be able to 
 
 
 
-**Testing:**
+Testing:
 I had to do a fair bit of testing to try to get the website to run smoothly over diferent sized devices. A crucial part of this was 
 the use of the developer tool Inspect Element. This allowed me to test the website on various sized devices, make temporary adjustments
 to colours, font sizes and the overall layout.
