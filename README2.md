@@ -54,4 +54,34 @@ https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css
 
 Bootstrap is a grid based open source web framework that gives us templates for buttons, forms, and many other interface components.
-THese templates are CSS and HTML based.
+These templates are CSS and HTML based and are on the front end in web development. Bootstrap helps make websites responsive across 
+different sized devices. This is hugely important as what looks great on one device has the potential to look terrible on another.
+
+
+JQuery is inserted into the footer of the HTML so that it loads after the HTML and CSS rules. It is basically simplified and concise 
+Javascript code which I will be learning about in the next section.
+
+I used cloud 9 to create and save my work and Github as an alternate location to store my work and make it available for others to view
+and disect.
+
+
+
+Testing:
+I had to do a fair bit of testing to try to get the website to run smoothly over diferent sized devices. A crucial part of this was 
+the use of the developer tool Inspect Element. This allowed me to test the website on various sized devices, make temporary adjustments
+to colours, font sizes and the overall layout.
+
+
+Media:
+THe photos used in this project were obtained from Google and are not restricted by copyright.
+
+conclusion:
+This section has certainly been a learning curve. There's been a lot to take on board and digest. I had some significant 
+adjustments to make at the end of this project as I changed the theme of the site completely. Thankfully I did this 
+with relative ease as I knew where to look in the code to implement these changes.
+
+Acknowledgements:
+I would like to thank my mentor Nishant for his help, encouragement and patience. 
+
+
+
