@@ -7,7 +7,7 @@ a Motorbike Shop.
 
 I went over my notes on User Experience Design(UXD) and I looked at the 5 planes 
 of UXD and how I could apply them to my project. 
-I began by focusing on the strategy plane...what I was looking to achieve.
+I began by focusing on the strategy plane, i.e. what I was looking to achieve.
 In order to figure this out I first created a wireframe using a pen and paper. 
 This gave me the overall layout for the site with respect to how many linked 
 pages I wanted, what images I wanted to apply to the background and foreground 
@@ -16,25 +16,26 @@ and what colours and themes I wanted to apply to the site overall.
 
 
 Because UXD strives to achieve a product that works properly and is simple, 
-intuitive and enjoyable to use, I tried to build the site from the ground up and 
-not to over complicate things.
+intuitive and enjoyable to use, I tried to build the site from the ground up so as
+to keep the site simple, but functional.
 
 From a scope perspective I wasn't really looking at the evolution of the site as
-it was a one off creation to help me demonstrate some of my newly aquired skills.
-At the same time I still had to determine the requirements and key functionality
+it was a one off creation to help me demonstrate some of my newly-aquired skills.
+At the same time, I still had to determine the requirements and key functionality
 of the site. 
 
 
-Initially I created a website about a Farm Shop that was to form the foundations for my second project.
-After some careful consideration I decided to make a clear distinction between the two projects and therefore 
+Initially, I created a website about a Farm Shop that was to form the foundations for my second project.
+After some careful consideration, I decided to make a clear distinction between the two projects and therefore 
 created the Japanese Mastercraft site.
 
 
 UX:
-THis Website was created for a fictitious client. They are the owners of a motorcycle shop and are 
-looking to project themselves to a wider audience  and create a strong and identifiable online presence.
+THis Website was created for a fictitious client. They are the owners of a motorcycle shop and their aim is 
+to project themselves to a wider audience  and create a strong and identifiable online presence.
 They are looking to increase their overall sales and have asked me to help them on this journey by developing
-a site for them that will who they are and what they are about.
+a site that will establish a strong customer following by clearly describing  who they are, what their business is
+and the services they provide.
 
 
 Features:
@@ -47,12 +48,12 @@ the nature of the business that my client is involved in.
 The navbar comprises of 3 clickable headings that open links to different HTML pages. These reduce to 2 headings 
 on medium sized media and reduce to a dropdown burger(mentioned below) for small media.
 These pages center around the index.html(main page) which is the home page and is the initial page to open on 
-entering the site. It is followed by the products.html page which briefly oulines the companies wares along 
-with the about.html page which gives some  background information on the client.
+entering the site. It is followed by the products.html page, which briefly outlines the company's wares, along 
+with the about.html page, which gives some background information on the client.
 
-I added a burger dropdown menu(from bootstrap) to the site which is only active in the smaller media sizes. It contains the 
-contents of the navbar and links to a login modal. This modal isn't fully functional and isn't linked to the backend.
-I also added a similar "join us" modal that doesn't link(as yet) to the backend either.
+I added a burger dropdown menu(from bootstrap) to the site, which is only active in the smaller media sizes. It contains the 
+contents of the navbar and links to a login modal. This modal is not fully functional and is not linked to the backend.
+I also added a similar "join us" modal that does not link(as yet) to the backend either.
 
 In the quotes section I added some brief quotes/reviews from clients accompanied by their profile pictures and name of their
 social media platforms. 
@@ -73,16 +74,16 @@ https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
 https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css
 
-Bootstrap is a grid based open source web framework that gives us templates for buttons, forms, and many other interface components.
+Bootstrap is a grid-based open-source web framework that gives us templates for buttons, forms, and many other interface components.
 These templates are CSS and HTML based and are on the front end in web development. Bootstrap helps make websites responsive across 
 different sized devices. This is hugely important as what looks great on one device has the potential to look terrible on another.
 
 
 JQuery is inserted into the footer of the HTML so that it loads after the HTML and CSS rules. It is basically simplified and concise 
-Javascript code which I will be learning about in the next section.
+Javascript code, which I will be learning about in the next section.
 
-I used cloud 9 to create and save my work and Github as an alternate location to store my work and make it available for others to view
-and disect.
+I used cloud 9 to create and save my work and Github as an alternative location to store my work and make it available for others to view
+and disect. If others were working on the project with me they would be able to contribute via Github.
 
 
 
@@ -93,7 +94,7 @@ to colours, font sizes and the overall layout.
 
 
 Media:
-THe photos used in this project were obtained from Google and are not restricted by copyright.
+The photos used in this project were obtained from Google and are not restricted by copyright.
 
 conclusion:
 This section has certainly been a learning curve. There's been a lot to take on board and digest. I had some significant 
