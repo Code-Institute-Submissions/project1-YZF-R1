@@ -33,13 +33,6 @@ created the Japanese Mastercraft site.
 
 https://project1-yzfr1-tom1mol.c9users.io/index.html
 
-https://c9.io/open/?clone_url=https%3A%2F%2Fproject1-yzfr1-tom1mol.c9users.io%2Findex.html
-
-https://c9.io/auth/github?r=https%3A%2F%2Fc9.io%2Fopen%2F%3Fclone_url%3Dhttps%253A%252F%252Fproject1-yzfr1-tom1mol.c9users.io%252Findex.html
-
-https%3A%2F%2Fc9.io%2Fauth%2Fgithub%3Fr%3Dhttps%253A%252F%252Fc9.io%252Fopen%252F%253Fclone_url%253Dhttps%25253A%25252F%25252Fproject1-yzfr1-tom1mol.c9users.io%25252Findex.html
-
-https%3A%2F%2Fc9.io%2Fauth%2Fgithub%3Fr%3Dhttps%253A%252F%252Fc9.io%252Fopen%252F%253Fclone_url%253Dhttps%25253A%25252F%25252Fproject1-yzfr1-tom1mol.c9users.io%25252Findex.html
 
 ## UX:
 
