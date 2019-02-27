@@ -29,7 +29,7 @@ Initially, I created a website about a Farm Shop that was to form the foundation
 After some careful consideration, I decided to make a clear distinction between the two projects and therefore 
 created the Japanese Mastercraft site.
 
-## Deployed Project Link
+## Deployed Project Link:
 
 https://project1-yzfr1-tom1mol.c9users.io/index.html
 
