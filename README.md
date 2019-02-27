@@ -1,4 +1,4 @@
-## **Project 1: YZF-R1 Japanese Mastercraft**
+## Project 1: YZF-R1 Japanese Mastercraft
 
 I was asked to create a website with a number of webpages.
 I was given a choice of creating a website for a fictitious band or else creating
@@ -29,8 +29,11 @@ Initially, I created a website about a Farm Shop that was to form the foundation
 After some careful consideration, I decided to make a clear distinction between the two projects and therefore 
 created the Japanese Mastercraft site.
 
+## Deployed Project Link
 
-## **UX:**
+https://project1-yzfr1-tom1mol.c9users.io/index.html
+
+## UX:
 
 THis Website was created for a fictitious client. They are the owners of a motorcycle shop and their aim is 
 to project themselves to a wider audience  and create a strong and identifiable online presence.
@@ -39,7 +42,7 @@ a site that will establish a strong customer following by clearly describing  wh
 and the services they provide.
 
 
-## **Features:**
+## Features:
 
 I started on my journey for this site with a blank canvas. I am new to web development so I modelled the site
 on a number of walkthrough projects that I studied.
@@ -64,13 +67,13 @@ In the features section at the base of the page I added 3 columns of text that c
 
 
 
-## **Features left to implement:**
+## Features left to implement:
 
 The login and join us modal both have to be connected to the back end. I hope to add a contact us section and to expand the 
 product listings to display their prices along with a brief description.
 
 
-## **Technologies used:**
+## Technologies used:
 
 I used stylesheets from libraries including bootstrap that are linked in the head of the HTML pages.
 links:
@@ -91,23 +94,23 @@ and disect. If others were working on the project with me they would be able to 
 
 
 
-## **Testing:**
+## Testing:
 
 I had to do a fair bit of testing to try to get the website to run smoothly over diferent sized devices. A crucial part of this was 
 the use of the developer tool Inspect Element. This allowed me to test the website on various sized devices, make temporary adjustments
 to colours, font sizes and the overall layout.
 
 
-## **Media:**
+## Media:
 
 The photos used in this project were obtained from Google and are not restricted by copyright.
 
-## **conclusion:**
+## conclusion:
 
 This section has certainly been a learning curve. There's been a lot to take on board and digest. I had some significant 
 adjustments to make at the end of this project as I changed the theme of the site completely. Thankfully I did this 
 with relative ease as I knew where to look in the code to implement these changes.
 
-## **Acknowledgements:**
+## Acknowledgements:
 
 I would like to thank my mentor Nishant for his help, encouragement and patience. 
