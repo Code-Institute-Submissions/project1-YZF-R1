@@ -109,8 +109,10 @@ The photos used in this project were obtained from Google and are not restricted
 ## conclusion:
 
 This section has certainly been a learning curve. There's been a lot to take on board and digest. I had some significant 
-adjustments to make at the end of this project as I changed the theme of the site completely. Thankfully I did this 
-with relative ease as I knew where to look in the code to implement these changes.
+adjustments to make at the end of this project as I changed the theme of the site completely from a Farm Shop site to a Motorbike shop site. Thankfully I did this 
+with relative ease as I knew where to look in the code to implement these changes. Originally I had a transparent navbar, but I decided to change it to a black background to highlight the text and clickers.
+
+I had a similar problem with the jumbotron but I decided to leave it transparent as I wanted to see the bike in the background behind the text. Certainly needs more tweaking but I have to push on with the other projects.
 
 ## Acknowledgements:
 
