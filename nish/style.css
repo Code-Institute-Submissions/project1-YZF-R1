@@ -67,6 +67,7 @@ blockquote {
     background-color: transparent;
     /* tried transparent */
     border: 0;
+    background: aliceblue;
 }
 
 .navbar .navbar-brand {
@@ -134,7 +135,6 @@ blockquote {
     margin-right: -15px;
     margin-left: -15px;
     border: 0;
-    background-color: black;
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
@@ -166,7 +166,7 @@ blockquote {
 }
 
 .jumbotron h1 {
-    color: #00fff5;
+    color: blue;
     font-weight: bold;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -199,12 +199,7 @@ blockquote {
 }
 */
 
-/*
-#index-jumbotron {
-    padding: 17px 20px 0px 300px;
-    
-}
-*/
+
 #about-jumbotron {
     padding:166px 20px 0px 16px
    
@@ -373,23 +368,15 @@ blockquote {
 }
 }
 
-
+/*
 @media screen and (min-width: 768px) {
 .container .jumbotron, .container-fluid .jumbotron {
     padding-right: 105px;
-    padding-left: 69px;
+    padding-left: 54px;
     padding-top: 0px;
 }
 }
-
-@media screen and (min-width: 1024px) {
-.container .jumbotron, .container-fluid .jumbotron {
-    padding-right: 105px;
-    padding-left: 209px;
-    padding-top: 0px;
-}
-}
-
+*/
 
 @media (min-width: 992px) {
 #about-jumbotron {
@@ -414,20 +401,9 @@ blockquote {
 
 @media (min-width: 992px) {
 #products-jumbotron {
-    padding-right: 0px;
-    padding-left: 283px;
-    padding-top: 167px;
-/*
-    padding-right: 123px;
-    padding-left: 224px;
-    padding-top: 135px;
-*/
-
-/*    
     padding-right: 115px;
     padding-left: 334px;
     padding-top: 166px;
-*/
 }
 }
 
@@ -443,20 +419,11 @@ blockquote {
 
 @media (min-width: 768px) {
 .jumbotron h1 {
-    color: #00fff5;
+    color: darksalmon;
     font-weight: bold;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-top: 209px;
-}
-}
-
-@media (min-width: 768px) {
-.jumbotron p {
-    margin-bottom: 133px;
-    font-size: 21px;
-    font-weight: 200;
-    color: white;
 }
 }
 
