@@ -31,7 +31,7 @@ created the Japanese Mastercraft site.
 
 ## Deployed Project Link:
 
-https://tom1mol.github.io/project1-YZF-R1/.
+https://tom1mol.github.io/project1-YZF-R1/
 
 
 
