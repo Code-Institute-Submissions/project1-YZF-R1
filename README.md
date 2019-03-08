@@ -107,7 +107,7 @@ to colours, font sizes and the overall layout.
 
 The photos used in this project were obtained from Google and are not restricted by copyright.
 
-## conclusion:
+## Conclusion:
 
 This section has certainly been a learning curve. There's been a lot to take on board and digest. I had some significant 
 adjustments to make at the end of this project as I changed the theme of the site completely from a Farm Shop site to a Motorbike shop site. Thankfully I did this 
